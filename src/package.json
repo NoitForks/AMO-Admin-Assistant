@@ -1,0 +1,16 @@
+{
+  "title": "AMO Admin Assistant",
+  "name": "amo-admin-assistant",
+  "version": "3.6",
+  "description": "Some simple tools to facilitate AMO administration.",
+  "main": "index.js",
+  "author": "Jorge Villalboss",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
